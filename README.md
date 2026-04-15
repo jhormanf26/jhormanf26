@@ -46,9 +46,9 @@ Actualmente estudio Ingeniería en Sistemas y me encuentro en constante aprendiz
 
 ## 📊 GitHub Stats
 
-![Jhorman's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO\&show_icons=true\&theme=tokyonight)
+![Jhorman's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhormanf26\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhormanf26\&layout=compact\&theme=tokyonight)
 
 ---
 
