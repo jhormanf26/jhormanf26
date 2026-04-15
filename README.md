@@ -1,16 +1,71 @@
-## Hi there 👋
+# 👋 Hola, soy Jhorman
 
-<!--
-**jhormanf26/jhormanf26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer | Java & Spring Boot | APIs escalables**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy desarrollador de software enfocado en backend, apasionado por construir APIs robustas, seguras y escalables.
+
+Trabajo principalmente con **Java y Spring Boot**, desarrollando soluciones eficientes orientadas a la lógica de negocio y el manejo óptimo de datos.
+
+Actualmente estudio Ingeniería en Sistemas y me encuentro en constante aprendizaje, mejorando mis habilidades en arquitectura, buenas prácticas y despliegue de aplicaciones.
+
+---
+
+## ⚙️ Tech Stack
+
+### 🧩 Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+
+### 🎨 Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🛠️ Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Jhorman's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🚀 Actualmente
+
+* 🔧 Construyendo APIs con Spring Boot
+* 📚 Aprendiendo sobre arquitectura backend y buenas prácticas
+* ☁️ Explorando Docker y despliegues
+
+---
+
+## 📫 Contacto
+
+* 💼 LinkedIn: TU-LINK
+* 📧 Email: TU-CORREO
+
+---
+
+## ⚡ Frase
+
+*"Construyendo soluciones eficientes y escalables, una línea de código a la vez."* 🚀
