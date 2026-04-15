@@ -32,6 +32,7 @@ Actualmente estudio Ingeniería en Sistemas y me encuentro en constante aprendiz
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
 ### 🛠️ Tools & DevOps
 
@@ -61,8 +62,8 @@ Actualmente estudio Ingeniería en Sistemas y me encuentro en constante aprendiz
 
 ## 📫 Contacto
 
-* 💼 LinkedIn: TU-LINK
-* 📧 Email: TU-CORREO
+* 💼 LinkedIn: 
+* 📧 Email: jhormanfelipef@gmail.com
 
 ---
 
